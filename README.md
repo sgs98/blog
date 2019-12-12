@@ -67,33 +67,7 @@
 
 	![link01](static-files/link01.png)
 
-#### 模板二
 
-- 首页
-
-	![index02](static-files/index02.png)
-
-- 文章浏览
-
-	![detail02](static-files/detail02.png)
-
-- 友情链接
-
-	![link02](static-files/link02.png)
-
-#### 模板三
-
-- 首页
-
-  ![index03](static-files/index03.png)
-
-- 文章浏览
-
-  ![detail03](static-files/detail03.png)
-
-- 友情链接
-
-  ![link03](static-files/link03.png)
   
 
 personal-blog
