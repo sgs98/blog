@@ -49,23 +49,6 @@
 
 	![config](static-files/config.png)
 
-### 博客展示页面
-
-开发时，在项目中**内置了三套博客主题模板，主题风格各有千秋**，效果如下：
-
-#### 模板一
-
-- 首页
-
-	![index01](static-files/index01.png)
-
-- 文章浏览
-
-	![detail01](static-files/detail01.png)
-
-- 友情链接
-
-	![link01](static-files/link01.png)
 
 
   
